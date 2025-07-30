@@ -1,4 +1,4 @@
-# 🖼️ GalleryProj — AI Image Generator
+# 🖼️ GalleryProj — Image Generator
 
 A **React + Vite** web app that lets users generate **custom images** via APIs, safely and without copyright issues. Perfect for designs, prototypes, or creative visuals.
 
