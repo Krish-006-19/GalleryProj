@@ -4,6 +4,9 @@ A **React + Vite** web app that lets users generate **custom images** via APIs, 
 
 ---
 
+![demo](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*0N8CVKix7OGfBDsgh9DzrQ.gif)
+
+
 ## ✨ Features
 
 - **Text-to-Image Generation**: Users input prompts, and get AI-generated images via external APIs (e.g. Eden AI, LightX, Stable Diffusion) :contentReference[oaicite:1]{index=1}  
