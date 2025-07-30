@@ -20,10 +20,9 @@ A **React + Vite** web app that lets users generate **custom images** via APIs, 
 
 ## 🧩 Demo & Preview
 Live demo is available on this website
-https://krish-006-19.github.io/CAR1/
+https://krish-006-19.github.io/GalleryProj/
 
-
-<img width="899" height="460" alt="image" src="https://github.com/user-attachments/assets/6b542d0c-deaf-46dd-baa2-c9374d2d239b" />
+<img width="1844" height="834" alt="image" src="https://github.com/user-attachments/assets/b599b6cc-3e1b-4a3b-8345-dd3d573a2da8" />
 
 
 ---
