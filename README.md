@@ -1,12 +1,15 @@
-# React + Vite
+# 🖼️ GalleryProj — AI Image Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **React + Vite** web app that lets users generate **custom images** via APIs, safely and without copyright issues. Perfect for designs, prototypes, or creative visuals.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- **Text-to-Image Generation**: Users input prompts, and get AI-generated images via external APIs (e.g. Eden AI, LightX, Stable Diffusion) :contentReference[oaicite:1]{index=1}  
+- **Copyright-Safe Output**: All images are generated programmatically—no reuse of copyrighted works.
+- **Smart Error Handling**: Handles API errors gracefully with user-friendly notifications and fallback behavior.
+- **Clean UI**: Prompt input, generate button, loading indicators, and image gallery UI.
+- **Responsive Design**: Optimized for desktop and mobile.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
