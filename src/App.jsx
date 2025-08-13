@@ -8,7 +8,7 @@ function App() {
 
   let Finder = () => {
     if (type.trim() !== '') {
-      fetch(`https://pixabay.com/api/?key=8761127-15c354fd40a23de8d36bfe25d&q=${type}&image_type=photo`)
+      fetch(`https://pixabay.com/api/?key=8761127-15c354fd40a23de8d*6bfe25d&q=${type}&image_type=photo`)
         .then(res => res.json())
         .then(res => {
           setData(res.hits || []);
